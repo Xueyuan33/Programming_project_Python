@@ -14,6 +14,9 @@ Due day: Dec. 15th at 11:59 p.m.
 
 Partnership: 2 students in one group (see Final_Groups.xlsx)
 
+**Xishan Deng** 
+**Xueyaun Li**
+
 Components:
 •	Basic (60% of the total grade): We have designed 6 questions for each group to help you build the essential features of the cookbook. Members of the same group should meet and evenly distribute the questions. Three questions should be assigned for each individual with no overlap on the choice of questions. The code needs to be complete, error-proofing, and readable. 
 •	Advanced (40% of the total grade): We have designed 7 questions for each group to enhance the functionality of the cookbook. Each individual member of the group should choose two questions to address (four questions in total for each team). Members of the same group should meet and discuss to ensure no overlap on the choice of the questions. The code needs to be complete, error-proofing, and readable. 
